@@ -625,9 +625,6 @@ function add_return() {
         window.location.replace("/history_chat");
     }
 }
-function handle_notices() {
-    
-}
  ''' + f'''
  {notices_js}
 </script>
