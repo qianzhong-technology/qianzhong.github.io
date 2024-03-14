@@ -1,1 +1,1 @@
-powered by qianzhong
+power by qianzhong
